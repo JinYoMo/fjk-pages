@@ -1,4 +1,4 @@
-# fjk-pages
+# zce-pages
 
 [![NPM Downloads][downloads-image]][downloads-url]
 [![NPM Version][version-image]][version-url]
@@ -12,10 +12,10 @@
 ## Installation
 
 ```shell
-$ yarn add fjk-pages
+$ yarn add zce-pages
 
 # or npm
-$ npm install fjk-pages
+$ npm install zce-pages
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ $ npm install fjk-pages
 <!-- TODO: Introduction of API use -->
 
 ```javascript
-const zcePages = require('fjk-pages')
+const zcePages = require('zce-pages')
 const result = zcePages('zce')
 // result => 'zce@zce.me'
 ```
@@ -64,15 +64,15 @@ const result = zcePages('zce')
 
 
 
-[downloads-image]: https://img.shields.io/npm/dm/fjk-pages.svg
-[downloads-url]: https://npmjs.org/package/fjk-pages
-[version-image]: https://img.shields.io/npm/v/fjk-pages.svg
-[version-url]: https://npmjs.org/package/fjk-pages
-[license-image]: https://img.shields.io/github/license/zce/fjk-pages.svg
-[license-url]: https://github.com/zce/fjk-pages/blob/master/LICENSE
-[dependency-image]: https://img.shields.io/david/zce/fjk-pages.svg
-[dependency-url]: https://david-dm.org/zce/fjk-pages
-[devdependency-image]: https://img.shields.io/david/dev/zce/fjk-pages.svg
-[devdependency-url]: https://david-dm.org/zce/fjk-pages?type=dev
+[downloads-image]: https://img.shields.io/npm/dm/zce-pages.svg
+[downloads-url]: https://npmjs.org/package/zce-pages
+[version-image]: https://img.shields.io/npm/v/zce-pages.svg
+[version-url]: https://npmjs.org/package/zce-pages
+[license-image]: https://img.shields.io/github/license/zce/zce-pages.svg
+[license-url]: https://github.com/zce/zce-pages/blob/master/LICENSE
+[dependency-image]: https://img.shields.io/david/zce/zce-pages.svg
+[dependency-url]: https://david-dm.org/zce/zce-pages
+[devdependency-image]: https://img.shields.io/david/dev/zce/zce-pages.svg
+[devdependency-url]: https://david-dm.org/zce/zce-pages?type=dev
 [style-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
 [style-url]: https://standardjs.com
